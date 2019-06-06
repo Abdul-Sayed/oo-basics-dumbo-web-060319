@@ -16,8 +16,5 @@ class Book
   end
 end
 
-newBook = Book.new("Mobey Dick")
-
-puts newBook.title
 
 
