@@ -1,7 +1,8 @@
 
-# Book class with properties title, author, page_count, method to keep track of the num_genres_created, method to turn page
+
 
 class Book
+  
   def initialize(title, author)
     @title = title
     @author = author
